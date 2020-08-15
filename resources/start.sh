@@ -20,10 +20,10 @@ printf $NORMAL
 printf $BLUE
 
 echo ""
-echo -e "Whats\b's up everybody? This is Greg!" | pv -qL $[13+(-2 + RANDOM%5)]
+echo -e "Whats\b's up everybody? This is Greg!" | pv -qL $[15+(-2 + RANDOM%5)]
 echo ""
 
-echo -e "I'm coming to you lo\bive 😉 from a l\bLinux terminal window!" | pv -qL $[13+(-2 + RANDOM%5)]
+echo -e "I'm coming to you lo\bive 😉 from a l\bLinux terminal window!" | pv -qL $[15+(-2 + RANDOM%5)]
 echo ""
 
 # echo -e "Wait ....\b I guess that this is not \e[3mreally\e[0m ${BLUE}live!" | pv -qL $[10+(-2 + RANDOM%5)]
@@ -32,7 +32,7 @@ echo ""
 printf $NORMAL
 
 printf $RED
-echo "But, ..." | pv -qL $[10+(-2 + RANDOM%5)]
+echo "Well, ..." | pv -qL $[10+(-2 + RANDOM%5)]
 echo "LET'S GET STARTED! 🚀"
 echo ""
 
