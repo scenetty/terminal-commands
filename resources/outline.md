@@ -1,38 +1,67 @@
 ---
 author: 'Gregory M. Kapfhammer'
-title: 'Commands in the Terminal Window'
 patat:
   incrementalLists: true
   images:
     backend: auto
   theme:
       header: [vividRed,bold]
+      bulletList: [vividBlue,bold]
+      strong: [vividBlue,bold]
       emph: [vividGreen]
       code: [rgb#767676,onRgb#1c1c1c]
       codeBlock: [vividRed,onRgb#1c1c1c]
 ...
 
-# Hey, what's up?
+# Learning Goals
 
+- **Navigation Commands:**
+    -- *cd, ls, and pwd*
 
-> - This list
+- **Transport Commands:**
+    -- *cp, mv, and pwd*
 
-- is displayed
+- **Debugging Commands:**
+    -- *more, tree, and echo*
 
-    * item
-    * by item
+# Shell Script
 
-- Or sometimes
+- **Output Goal:**
+    -- *I'm coming to you live 😉 from a Linux terminal window!*
 
-    > * all at
-    > * once
+- **Unscramble the Script:**
+  -- *Find the files*
+  -- *Discover file content*
+  -- *Repair the script*
 
-Legen
+# Learning Opportunities
 
-. . .
+- **Terminal Prompt:**
+    -- *Current location*
+    -- *Git repo status*
 
-wait for it
+- **Cool Tools:**
+  -- *Oh My Zsh*
+  -- *Fzf, ripgrep, fd*
+  -- *Dotfiles on GitHub*
 
-. . .
+# Keep in Touch!
 
-Dary!
+- **Share your terminal favs!**
+
+- **爵gregorykapfhammer.com**
+
+- ** github.com/gkapfham**
+
+- **暑GregKapfhammer**
+
+# Credits
+
+- **Made with   and  by me!**
+  -- * github.com/scenetty*
+
+- **With   help from:**
+  -- *Douglas Luman*
+
+- **Music by Shane Ivers**
+  -- *silvermansound.com*
