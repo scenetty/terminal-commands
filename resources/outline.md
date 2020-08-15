@@ -42,7 +42,7 @@ patat:
 
 - **Cool Tools:**
   -- *Oh My Zsh*
-  -- *Fzf, ripgrep, bat*
+  -- *Fzf, Fzf-tab, and more!*
   -- *Dotfiles on GitHub*
 
 # Keep in Touch!
@@ -55,13 +55,13 @@ patat:
 
 - **暑GregKapfhammer**
 
-# Credits
-
-- **Made with   and  by me!**
-  -- * github.com/scenetty*
+# Shoutouts
 
 - **With   help from:**
   -- *Douglas Luman*
 
 - **Music by Shane Ivers**
-  -- *silvermansound.com*
+-- *silvermansound.com*
+
+- **Made with   and  by me!**
+  -- * github.com/scenetty*
