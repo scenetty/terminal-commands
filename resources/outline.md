@@ -18,8 +18,8 @@ patat:
 - **Navigation Commands:**
     -- *cd, ls, and pwd*
 
-- **Transport Commands:**
-    -- *cp, mv, and pwd*
+- **Create Commands:**
+    -- *mkdir, cp, and rm*
 
 - **Debugging Commands:**
     -- *more, tree, and echo*
@@ -42,7 +42,7 @@ patat:
 
 - **Cool Tools:**
   -- *Oh My Zsh*
-  -- *Fzf, ripgrep, fd*
+  -- *Fzf, ripgrep, bat*
   -- *Dotfiles on GitHub*
 
 # Keep in Touch!
