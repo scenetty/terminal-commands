@@ -37,13 +37,13 @@ patat:
 # Learning Opportunities
 
 - **Terminal Prompt:**
+    -- *User name*
     -- *Current location*
-    -- *Git repo status*
 
 - **Cool Tools:**
   -- *Oh My Zsh*
-  -- *Fzf, Fzf-tab, and more!*
-  -- *Dotfiles on GitHub*
+  -- *Fzf*
+  -- *Fzf-tab 
 
 # Keep in Touch!
 
