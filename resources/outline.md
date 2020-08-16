@@ -43,7 +43,7 @@ patat:
 - **Cool Tools:**
   -- *Oh My Zsh*
   -- *Fzf*
-  -- *Fzf-tab 
+  -- *Fzf-tab
 
 # Keep in Touch!
 
