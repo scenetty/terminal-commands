@@ -42,8 +42,8 @@ patat:
 
 - **Cool Tools:**
   -- *Oh My Zsh*
-  -- *Fzf*
-  -- *Fzf-tab
+  -- *Fzf and Tmux*
+  -- *And many more!*
 
 # Keep in Touch!
 
