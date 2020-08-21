@@ -63,5 +63,5 @@ patat:
 - **Music by Shane Ivers**
 -- *silvermansound.com*
 
-- **Made with   and  by me!**
+- **Code to learn more!**
   -- * github.com/scenetty*
