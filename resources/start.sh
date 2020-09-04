@@ -10,6 +10,9 @@ CYAN="\033[36m"
 WHITE="\033[37m"
 NORMAL="\033[0;39m"
 
+clear
+read newlinecharacter
+
 while IFS= read -r line; do
     printf $RED
     echo -e "$line" | pv -qL $[18+(-2 + RANDOM%5)]
