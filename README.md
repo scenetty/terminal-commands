@@ -37,7 +37,7 @@ Excited about this video? Then, [watch it on YouTube](https://youtu.be/EajfilB4G
 - [learn](learn): contains the defective script and the files that it uses. Can
   you fix the script?
 - [resources](resources): contains the materials used to create the video. If
-  you want to display the `outline.md` file you need to install
-  [patat](https://github.com/jaspervdj/patat).
+  you want to display the `outline.md` file in your terminal window you need to
+  install [patat](https://github.com/jaspervdj/patat).
 - [solution](solution): contains the repaired script that was created in the
-  video. Can you see how it was fixed?
+  video. Can you see how I fixed the defect?
