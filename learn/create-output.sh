@@ -1,11 +1,5 @@
 #!/bin/bash
 
-cd location
-
-while IFS= read -r line; do
-    echo "$line"
-done < message.txt
-
 cd greeting
 
 while IFS= read -r line; do
@@ -13,3 +7,9 @@ while IFS= read -r line; do
 done < message.txt
 
 cd ..
+
+cd location
+
+while IFS= read -r line; do
+    echo "$line"
+done < message.txt
